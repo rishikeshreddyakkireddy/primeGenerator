@@ -2,6 +2,9 @@
 
 PrimeGenerator will generate prime numbers using the method sieve of eratosthenes
 
+# link
+[check website](https://sieveoferatosthenes.netlify.app/)
+
 ## Clone Repository
 
 clone repository using [git](https://github.com/).
