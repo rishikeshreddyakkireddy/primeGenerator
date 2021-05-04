@@ -1,0 +1,68 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(48, 46, 46);
+    color: white;
+}
+
+.navbar-brand{
+    margin: auto;
+    font-size: 25px;
+}
+
+.gridBox{
+    margin-top: 10px;
+}
+
+img{
+    height: 300px;
+    width: 250px;
+    margin: 10% 15%;
+    border-radius: 8px;
+    border: 2px solid rgb(107, 103, 103);
+}
+
+#answer{
+    color: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    border: 2px solid rgb(107, 103, 103);
+    background: url("https://images.unsplash.com/photo-1504903271097-d7e7c7f5f7ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col,.col-8 {
+    margin-left: 5px;
+}
+
+.getNumDiv{
+    margin-top: 15%;
+}
+
+h2{
+    margin-left: 5%;
+}
+
+.col-8{
+    padding: 10px;
+}
+
+.row{
+    margin-top: 5%;
+}
+
+.footer{
+    margin-top: 60px;
+}
+
+.text-white{
+    text-decoration: none;
+}
